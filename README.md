@@ -57,13 +57,6 @@ I'm a tech enthusiast who enjoys blending creativity with code. Currently diving
 
 ---
 
-## 📈 GitHub Stats
-
-![Divy Jain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyjain0212&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyjain0212&layout=compact&theme=radical&cache_seconds=60)
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 Email: divyj12349@gmail.com  
