@@ -62,9 +62,18 @@ Currently exploring:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- SQL Databases
+- NoSQL Databases
+- MongoDB
+- MySQL
 
 ---
 
@@ -83,7 +92,6 @@ Currently exploring:
 - Infrastructure automation workflows
 
 ## 💡 Backend Applications
-- Flask & Node.js backend systems
 - REST API development
 - Production deployment workflows
 
@@ -110,12 +118,8 @@ Currently exploring:
 # 📫 Connect With Me
 
 📧 Email: divy.jain021@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/divyjain-devops
 
-💼 LinkedIn:  
-https://www.linkedin.com/in/divy-jain-331a5430a
-
-🌐 GitHub:  
-https://github.com/Divyjain0212
 
 ---
 
